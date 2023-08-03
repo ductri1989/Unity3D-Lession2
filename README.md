@@ -1,4 +1,20 @@
 # Bài 2 : Nhân vật chuyển động
+Làm quen với nhân vật 3D trên https://www.mixamo.com
+
+### Phạm vi bài giảng
+- Đăng ký tài khoảng trên Mixamo
+- Setup nhân vật
+    - Tải nhân vật Maria
+    - Giải nén Textures và Materials
+    - Tải animation : idle,move,attack,jump
+    - Tạo AnimatorController → Setup Blendtree cho hành động idle và moving
+    - Xử lý phím di chuyển nhân vật
+- Xoay nhân vật và GameObject
+  - `Rotate` : 4 trường hợp
+  - `RotateAround` : 4 trường hợp
+  - `eulerAngles` : 4 trường hợp
+  - `Quaternion`
+
 
 ### Resource
 
