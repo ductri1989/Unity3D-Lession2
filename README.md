@@ -1,4 +1,4 @@
-# Bài 2 : Nhân vật chuyển động
+# Nhân vật chuyển động
 Làm quen với nhân vật 3D trên https://www.mixamo.com
 
 ### Phạm vi bài giảng
